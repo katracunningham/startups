@@ -31,7 +31,7 @@ This repo provides startups with Azure guidance, information, and resources. Whe
     - [Mapping AWS to Azure ☁️➡️☁️](#mapping-aws-to-azure)
 - [About this repository](#about-this-repository)
 
-> In this document, we are providing information about our free tiers and/or offerings. Please note that this document may not reflect an accurate description of our free offerings, and may from time to time describe a free offering which is not free anymore. Information listed here has no legal or contractual value. Please consult our [Azure Free Tier Page](https://azure.microsoft.com/free/?WT.mc_id=startups-github-cxa) for accurate and up-to-date info.
+> In this document, we are providing information about our free tiers and/or offerings. Please note that this document may not reflect an accurate description of our free offerings, and may from time to time describe a free offering which is not free anymore. Information listed here has no legal or contractual value. Please consult our [Azure Free Tier Page](https://azure.microsoft.com/free/?WT.mc_id=startups-github-cxa) for accurate and up-to-date info. Test
 
 ## Get started with Azure 🏁
 You can quickly get started with Azure by [creating a free account](https://azure.microsoft.com/?WT.mc_id=startups-github-cxa). The free account includes access to 25 different products that are always free. You also get free access to popular Azure products for 12 months. And you get a $200 credit to spend in the first month. For the latest details on the free Azure account, consult the [Azure Free Account FAQ](https://azure.microsoft.com/free/free-account-faq/?WT.mc_id=startups-github-cxa).
